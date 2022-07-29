@@ -52,6 +52,12 @@
     position: relative;
 }
 
+/* social media icon */
+.fa-brands {
+    font-size: 20px;
+    padding: 5px;
+}
+
 /* responsive for device */
 
 @media only screen and (max-width:576px) {
@@ -102,4 +108,10 @@
     .fa-chevron-right {
         display: none;
     }
+
+    .course-colmn-container {
+        width: 90%;
+        height: 80%;
+    }
+
 }
